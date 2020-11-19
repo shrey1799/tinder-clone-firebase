@@ -1,0 +1,33 @@
+.swipeButtons__container {
+  position: fixed;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 100%;
+}
+
+.button_styling {
+  padding: 7px;
+  border-radius: 50%;
+  box-shadow: 0px 10px 53px 0px rgba(0, 0, 0, 0.3);
+}
+
+.yellow {
+  color: #f5b748;
+}
+
+.red {
+  color: #ec5e6f;
+}
+
+.blue {
+  color: #62b4f9;
+}
+
+.green {
+  color: #76e2b3;
+}
+
+.purple {
+  color: #915dd1;
+}
